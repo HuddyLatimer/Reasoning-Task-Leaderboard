@@ -37,7 +37,6 @@ A web-based leaderboard system for tracking and comparing LLM performance on rea
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
 cd reasoning-task-leaderboard
 ```
 
@@ -145,3 +144,4 @@ The application will be available at:
 ## License
 
 [Your chosen license]
+
